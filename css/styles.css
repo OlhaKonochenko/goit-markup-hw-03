@@ -22,8 +22,8 @@ body{font-family: "Roboto", sans-serif;
         margin-right: auto;
         margin-left: auto;}
 
-.header-container {display: flex;
-            align-items: center;}
+/*.headertop {display: flex;
+            align-items: center;}*/
 
 .header-nav {display:flex;
 align-items: center;}
@@ -39,7 +39,9 @@ gap: 40px;}
 .header-logo{padding: 24px 0;
 margin-right: 76px;}
 
-.page-header{border-bottom: 1px solid #e7e9fc;}
+.one {border-bottom: 1px solid #e7e9fc;
+display: flex;
+align-items: center;}
     .logo{font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -175,6 +177,6 @@ margin-right: 76px;}
 .titlefour{text-transform: capitalize;}
 .sectionthree-list {background-color: #FFFFFF;}
 .sectiontwo-paragraf {font-size: 16px;}
-.sectionfour 
-{width: 1000px;
-display: flex;}
+.sectionfour{width: 1128px;
+display: flex;
+flex-wrap: wrap;}

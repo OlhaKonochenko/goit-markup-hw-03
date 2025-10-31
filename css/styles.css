@@ -175,3 +175,6 @@ margin-right: 76px;}
 .titlefour{text-transform: capitalize;}
 .sectionthree-list {background-color: #FFFFFF;}
 .sectiontwo-paragraf {font-size: 16px;}
+.sectionfour 
+{width: 1000px;
+display: flex;}

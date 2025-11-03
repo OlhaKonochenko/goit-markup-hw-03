@@ -204,7 +204,8 @@ align-items: center;}
             text-transform: uppercase;
             color: #4d5ae5;
             font-family: "Raleway", sans-serif;
-            margin-bottom: 16px;}
+            margin-bottom: 16px;
+            display: inline-block;}
         .logo-part-footer {color: #f4f4fd;}
         .footer-text{color: #f4f4fd;
         max-width: 264px;

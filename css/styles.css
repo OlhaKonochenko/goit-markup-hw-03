@@ -44,6 +44,7 @@ margin-right: 76px;}
 display: flex;
 align-items: center;
 width: 1158px;}
+
 .logo{font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
@@ -75,7 +76,7 @@ width: 1158px;}
      .contacts-link:hover,
      .contacts-link:focus {color: #404bbf;}
     .title {
-        width: 496px;
+        max-width: 496px;
         height: 120px;
         margin: auto;
         margin-bottom: 48px;
@@ -92,7 +93,7 @@ width: 1158px;}
     background-color: #2e2f42;
     height: 600px;
     align-items: center;
-    padding: 120px 0 120px 0;}
+    padding: 188px 0;}
     
     .button {font-weight: 500;
         font-size: 16px;
@@ -104,7 +105,10 @@ width: 1158px;}
         border-radius: 4px;
         padding: 16px 32px;
         width: 169px;
-        margin-bottom: 188px;}
+        margin-bottom: 188px;
+        min-width: 169px;
+        height: 56px;
+        border: none;}
 
         .button:hover,
         .button:focus {background-color: #404BBF} 

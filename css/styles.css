@@ -22,7 +22,7 @@ body{font-family: "Roboto", sans-serif;
         padding: 0 15px;
         margin-right: auto;
         margin-left: auto;}
-
+header{border-bottom: 1px solid #e7e9fc;}
 /*.headertop {display: flex;
             align-items: center;}*/
 
@@ -129,6 +129,9 @@ width: 1158px;}
                 letter-spacing: 0.02em;
                 text-align: center;
                 color: #2e2f42;}
+        .sectiontwo {padding: 120px 0 120px;}
+        .titletwo {margin-bottom: 8px;
+        margin-bottom: 72px;}
         .sectiontwo-list {display: flex;
         gap: 24px;
         padding: 120px 0;
@@ -137,7 +140,8 @@ width: 1158px;}
         .sectiontwo-points {width: 264px;
          height: 104px;}
 
-        .sectiontwo-title {padding-bottom: 8px;}
+        .sectiontwo-title {text-align: center;
+            margin-bottom: 8px}
 
         .sectionthree {display: flex;
         flex-direction: column;
@@ -168,6 +172,7 @@ width: 1158px;}
         height: 380px;
         border-radius: 0 0 4px 4px;
         padding: 0px 0px 32px 0px;}
+        .job {padding: 32px 0;}
         .sectionfour-backgr {background: #fff;}
         
         .sectionthree {text-transform: capitalize}
@@ -181,16 +186,17 @@ width: 1158px;}
                       letter-spacing: 0.02em;
                       text-align: center;
                       color: #2e2f42;
-                      margin-bottom: 16px;}
+                      margin-bottom: 72px;}
         
         .sectionthree-list {
                       background-color: #FFFFFF;
                   }
         
-        .sectiontwo-paragraf {
+        .sectiontwo-paragraf {text-align: center;
                       font-size: 16px; }
         
-        
+        .sectionfour {padding-top: 120px;
+            padding-bottom: 120px;}
         .sectionfour-backgr {
                       width: 1128px;
                       padding: 120px 0 120px 0;
@@ -199,6 +205,10 @@ width: 1158px;}
                       column-gap: 24px;
                       row-gap: 48px;
                       height: 1000px;}
+        .info {padding: 32px 16px;
+        border: 1px solid #e7e9fc;
+       border-top: none;}
+       .sectionfour-title {margin-bottom: 8px}
 
         .page-footer {background: #2e2f42;
         padding: 100px 0px;}

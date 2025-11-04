@@ -178,13 +178,14 @@ width: 1158px;}
         padding: 0px 0px 32px 0px;
         background: #fff;}
 
-        li .sectionthree-list {display: flex;
+        .sectionthree-list {display: flex;
         flex-direction: column;
         justify-items: center;
         width: 264px;
         height: 380px;
         border-radius: 0 0 4px 4px;
         padding: 0px 0px 32px 0px;}
+
         .job {padding: 32px 0;}
         .sectionfour-backgr {background: #fff;}
         

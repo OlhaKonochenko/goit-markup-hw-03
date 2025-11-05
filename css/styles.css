@@ -130,7 +130,8 @@ width: 1158px;}
                 text-align: center;
                 color: #2e2f42;}
         .sectiontwo {padding: 120px 0 120px;}
-        .visually-hidden {position: absolute;
+        .visually-hidden {
+            position: absolute;
             width: 1px;
             height: 1px;
             margin: -1px;
@@ -139,7 +140,8 @@ width: 1158px;}
             white-space: nowrap;
             clip-path: inset(100%);
             clip: rect (0 0 0 0);
-            overflow: hidden;}
+            overflow: hidden;
+        }
 
         .titletwo {margin-bottom: 8px;
         margin-bottom: 72px;}
